@@ -1,0 +1,49 @@
+﻿<Window x:Class="tank_test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:TankControl="clr-namespace:TankControl;assembly=TankControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="550" >
+    <ScrollViewer>
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="500"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Vertical">
+                <Slider HorizontalAlignment="Center" Name="valueslider" VerticalAlignment="Top" Minimum="20" Maximum="100" Width="120" Margin="10,10,0,0" Value="{Binding CurrentValue}" />
+                <TextBox Height="30" Grid.Row="0" Width="100" Margin="0,15,0,0" Name="ValueTextBox"  />
+                <Button Height="30" Grid.Row="0" IsDefault="True" Width="120" Margin="0,15,0,0" Content="ChangeValue" Click="Button_Click"/>
+                <TankControl:Tank
+              Height="200"
+              Width="100"
+              MinorSteps = "4"
+              MajorSteps = "5"
+              MaxValue = "83"
+              MinValue = "19"
+              IsHorizontal="False"
+              CurrentValue = "{Binding CurrentValue}"
+              ValueTextVerticalOffset = "35"
+              ValueTextHorizontalOffset = "10"
+              MinorStepsLength="3"
+              MajorStepsLength = "6"
+              AnimationTime="1"
+              Presicion="1"
+              FlipScale="True"
+              UnitText="Ltr"
+              UnitType="Water"
+              DefaultTankColor="Gray"
+              ScaleTextFontStretch="Condensed"
+              ScaleTextFontFamily="Calibri"
+              ScaleTextFontSize="12"
+              ScaleTextFontStyle="Normal"
+              ScaleTextFontWeight="Bold"
+              ScaleTextColor="Gray" 
+              Margin="60,50,50.8,346"
+              Ranges="{Binding RangeValuesForTank}"
+            />
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>

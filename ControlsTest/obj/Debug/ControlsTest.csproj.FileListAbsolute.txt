@@ -1,0 +1,66 @@
+D:\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe.config
+D:\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe
+D:\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.pdb
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csprojResolveAssemblyReference.cache
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.baml
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.g.cs
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\App.g.cs
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.g.resources
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.GenerateResource.Cache
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.exe
+D:\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.pdb
+D:\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.dll
+D:\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.pdb
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe.config
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.pdb
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.dll
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.pdb
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csprojResolveAssemblyReference.cache
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.baml
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.g.cs
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\App.g.cs
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.g.resources
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.GenerateResource.cache
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CoreCompileInputs.cache
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CopyComplete
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.exe
+G:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.pdb
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe.config
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.exe
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\tank test.pdb
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.dll
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.pdb
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csprojAssemblyReference.cache
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.baml
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\MainWindow.g.cs
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\App.g.cs
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.g.resources
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.GenerateResource.cache
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CoreCompileInputs.cache
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CopyComplete
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.exe
+F:\BT_Stuffs\Projects\BTControlPackage\BTControls\ControlsTest\obj\Debug\tank test.pdb
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.exe.config
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.exe
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.pdb
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.dll
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\BT.Tools.BTControls.pdb
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.csprojAssemblyReference.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\MainWindow.baml
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\MainWindow.g.cs
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\App.g.cs
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.g.resources
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.GenerateResource.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CoreCompileInputs.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.csproj.CopyComplete
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.exe
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.pdb

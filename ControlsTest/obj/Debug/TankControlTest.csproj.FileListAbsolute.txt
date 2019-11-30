@@ -1,0 +1,51 @@
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.exe.config
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.exe
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\tank test.pdb
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\TankControlTest.csprojAssemblyReference.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\MainWindow.baml
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\MainWindow.g.cs
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\App.g.cs
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.g.resources
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\TankControlTest.csproj.GenerateResource.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\TankControlTest.csproj.CoreCompileInputs.cache
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\TankControlTest.csproj.CopyComplete
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.exe
+D:\custom-tank-control\BTControls\ControlsTest\obj\Debug\tank test.pdb
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\TankControl.dll
+D:\custom-tank-control\BTControls\ControlsTest\bin\Debug\TankControl.pdb
+D:\custom-tank\ControlsTest\bin\Debug\tank test.exe.config
+D:\custom-tank\ControlsTest\bin\Debug\tank test.exe
+D:\custom-tank\ControlsTest\bin\Debug\tank test.pdb
+D:\custom-tank\ControlsTest\bin\Debug\TankControl.dll
+D:\custom-tank\ControlsTest\bin\Debug\TankControl.pdb
+D:\custom-tank\ControlsTest\obj\Debug\TankControlTest.csprojAssemblyReference.cache
+D:\custom-tank\ControlsTest\obj\Debug\MainWindow.baml
+D:\custom-tank\ControlsTest\obj\Debug\MainWindow.g.cs
+D:\custom-tank\ControlsTest\obj\Debug\App.g.cs
+D:\custom-tank\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+D:\custom-tank\ControlsTest\obj\Debug\tank test.g.resources
+D:\custom-tank\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+D:\custom-tank\ControlsTest\obj\Debug\TankControlTest.csproj.GenerateResource.cache
+D:\custom-tank\ControlsTest\obj\Debug\TankControlTest.csproj.CoreCompileInputs.cache
+D:\custom-tank\ControlsTest\obj\Debug\TankControlTest.csproj.CopyComplete
+D:\custom-tank\ControlsTest\obj\Debug\tank test.exe
+D:\custom-tank\ControlsTest\obj\Debug\tank test.pdb
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\bin\Debug\tank test.exe.config
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\bin\Debug\tank test.exe
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\bin\Debug\tank test.pdb
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\bin\Debug\TankControl.dll
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\bin\Debug\TankControl.pdb
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\TankControlTest.csprojAssemblyReference.cache
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\MainWindow.baml
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\MainWindow.g.cs
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\App.g.cs
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\tank test_MarkupCompile.cache
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\tank test.g.resources
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\ControlsTest.Properties.Resources.resources
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\TankControlTest.csproj.GenerateResource.cache
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\TankControlTest.csproj.CoreCompileInputs.cache
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\TankControlTest.csproj.CopyComplete
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\tank test.exe
+C:\Users\ashut\source\repos\custom-tank-control\ControlsTest\obj\Debug\tank test.pdb
